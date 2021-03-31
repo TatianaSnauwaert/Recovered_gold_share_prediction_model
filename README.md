@@ -1,0 +1,2 @@
+# Recovered_gold_share_prediction_model_for_production_optimization
+Integrated project 2 from Practicum by Yandex
